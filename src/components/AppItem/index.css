@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.list-card {
+  background-color: #ffffff;
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+  height: 120px;
+}
+.image {
+  width: 50px;
+}
+.app-name {
+  font-size: 13px;
+  color: #1e293b;
+  text-align: center;
+}
